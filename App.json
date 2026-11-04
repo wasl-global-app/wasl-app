@@ -1,0 +1,21 @@
+
+{
+  "expo": {
+    "name": "WASL | وَصْل",
+    "slug": "wasl-global",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light",
+    "scheme": "wasl",
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "com.waslglobal.wasl"
+    },
+    "android": {
+      "package": "com.waslglobal.wasl"
+    },
+    "web": {
+      "bundler": "metro"
+    }
+  }
+}
